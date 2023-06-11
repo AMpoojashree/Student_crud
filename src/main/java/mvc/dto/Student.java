@@ -24,6 +24,7 @@ public class Student {
 	String password;
 	String gender;
 	Date dob;
+	int age;
 	
 
 }
